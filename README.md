@@ -1,5 +1,5 @@
 # Coding_Test_With_Python
-![이것이 코딩테스트다 표지](https://github.com/jyj1206/Coding_Test_With_Python/assets/56617662/f8fa405b-568f-451b-83aa-619a1e754ca4)
+![이것이 코딩테스트다](https://github.com/jyj1206/Coding_Test_With_Python/assets/56617662/a64414af-bb67-4f80-ae14-84fd22e46bf5)
 
 > 이 레포지토리는 "이것이 코딩 테스트다 with 파이썬" 책 관련 코드를 정리하기 위해 만들어졌습니다.
 
